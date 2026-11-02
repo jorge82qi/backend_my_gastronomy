@@ -1,0 +1,12 @@
+#Dependecy
+node_modules/
+
+#Variaveis de ambiente
+.env
+.env*
+
+#excessoes
+!.env.example
+
+#logs
+npm-debug.log
